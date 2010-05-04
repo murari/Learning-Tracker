@@ -1,0 +1,10 @@
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\UnitTests\bin\Debug\LearingTracker.UnitTests.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\UnitTests\bin\Debug\LearingTracker.UnitTests.pdb
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\UnitTests\obj\Debug\LearingTracker.UnitTests.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\UnitTests\obj\Debug\LearingTracker.UnitTests.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\LearingTracker.UnitTests.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\LearingTracker.UnitTests.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\LearingTracker.UnitTests.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\LearingTracker.UnitTests.pdb

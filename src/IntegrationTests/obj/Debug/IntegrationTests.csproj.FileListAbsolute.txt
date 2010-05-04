@@ -1,0 +1,18 @@
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\IntegrationTests\bin\Debug\LearningTracker.IntegrationTests.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\IntegrationTests\bin\Debug\LearningTracker.IntegrationTests.pdb
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\IntegrationTests\obj\Debug\LearningTracker.IntegrationTests.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\IntegrationTests\obj\Debug\LearningTracker.IntegrationTests.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.IntegrationTests.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.IntegrationTests.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+D:\_learnings\code\learing-tracker\src\IntegrationTests\obj\Debug\LearningTracker.IntegrationTests.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\obj\Debug\LearningTracker.IntegrationTests.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.UI.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\nunit.framework.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Spark.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Spark.Web.Mvc.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Spark.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Spark.Web.Mvc.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.UI.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\nunit.framework.xml

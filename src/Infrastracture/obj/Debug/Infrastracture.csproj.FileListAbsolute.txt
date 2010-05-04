@@ -1,0 +1,10 @@
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\Infrastracture\bin\Debug\LearningTracker.Infrastracture.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\Infrastracture\bin\Debug\LearningTracker.Infrastracture.pdb
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\Infrastracture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\Infrastracture\obj\Debug\LearningTracker.Infrastracture.dll
+C:\Users\rafi\Documents\Visual Studio 2008\Projects\Project1\LearinigTracker\Infrastracture\obj\Debug\LearningTracker.Infrastracture.pdb
+D:\_learnings\code\learing-tracker\src\Infrastracture\bin\Debug\LearningTracker.Infrastracture.dll
+D:\_learnings\code\learing-tracker\src\Infrastracture\bin\Debug\LearningTracker.Infrastracture.pdb
+D:\_learnings\code\learing-tracker\src\Infrastracture\obj\Debug\ResolveAssemblyReference.cache
+D:\_learnings\code\learing-tracker\src\Infrastracture\obj\Debug\LearningTracker.Infrastracture.dll
+D:\_learnings\code\learing-tracker\src\Infrastracture\obj\Debug\LearningTracker.Infrastracture.pdb

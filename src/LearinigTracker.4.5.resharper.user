@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/f:Global.asax.cs" caret="783" fromTop="22" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Controllers/f:ApplicationController.cs" caret="94" fromTop="3" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/f:Global.asax" caret="0" fromTop="0" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Controllers/f:HomeController.cs" caret="216" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/f:Global.asax.cs" caret="221" fromTop="9" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/f:Global.asax.cs" caret="839" fromTop="22" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Controllers/f:ApplicationController.cs" caret="94" fromTop="3" />
+      <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Controllers/f:HomeController.cs" caret="129" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="View" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="ApplicationController" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
