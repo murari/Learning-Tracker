@@ -34,4 +34,8 @@ D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\FluentNHiberna
 D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Castle.Core.xml
 D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\Iesi.Collections.xml
 D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\NHibernate.xml
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearingTracker.Domain.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.Infrastracture.dll
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearningTracker.Infrastracture.pdb
+D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\LearingTracker.Domain.pdb
 D:\_learnings\code\learing-tracker\src\IntegrationTests\bin\Debug\hibernate.cfg.xml

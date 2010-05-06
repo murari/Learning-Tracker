@@ -8,3 +8,11 @@ D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\LearingTracker.UnitTe
 D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\ResolveAssemblyReference.cache
 D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\LearingTracker.UnitTests.dll
 D:\_learnings\code\learing-tracker\src\UnitTests\obj\Debug\LearingTracker.UnitTests.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\LearningTracker.UI.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\nunit.framework.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\Spark.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\Spark.Web.Mvc.dll
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\Spark.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\Spark.Web.Mvc.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\LearningTracker.UI.pdb
+D:\_learnings\code\learing-tracker\src\UnitTests\bin\Debug\nunit.framework.xml

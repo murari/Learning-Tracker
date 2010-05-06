@@ -70,18 +70,20 @@
     <Compile Include="Infrastructure\DataAccess\TableNameConventions.cs" />
     <Compile Include="NHhelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmokeTests.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{4151B042-B627-46A0-B094-812CC3190221}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastracture\Infrastracture.csproj">
+      <Project>{1D80E208-F185-448F-B23C-0CB76DD61331}</Project>
+      <Name>Infrastracture</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UI\UI.csproj">
       <Project>{690FF3B1-058A-4CF0-BC23-FE76C840D6D6}</Project>
       <Name>UI</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="hibernate.cfg.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

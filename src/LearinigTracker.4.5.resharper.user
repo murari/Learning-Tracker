@@ -18,12 +18,11 @@
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/f:Global.asax.cs" caret="996" fromTop="29" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:SmokeTests.cs" caret="377" fromTop="11" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Configuration/f:SparkConfiguration.cs" caret="1126" fromTop="27" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:hibernate.cfg.xml" caret="783" fromTop="10" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Views/d:Layouts/f:Application.spark" caret="6" fromTop="0" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Views/d:Home/f:Index.spark" caret="70" fromTop="2" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:TableNameConventions.cs" caret="353" fromTop="10" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:NHhelper.cs" caret="532" fromTop="14" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1041" fromTop="23" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="845" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Controllers/f:HomeController.cs" caret="129" fromTop="3" />
@@ -37,25 +36,25 @@
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:SmokeTests.cs" caret="277" fromTop="7" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:SmokeTests.cs" caret="465" fromTop="13" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Code/d:Configuration/f:SparkConfiguration.cs" caret="1191" fromTop="27" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="21" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="17" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="36" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="31" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="27" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1043" fromTop="30" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1103" fromTop="33" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:hibernate.cfg.xml" caret="650" fromTop="7" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1017" fromTop="21" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1017" fromTop="17" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1017" fromTop="36" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1017" fromTop="31" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1362" fromTop="30" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1422" fromTop="33" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="624" fromTop="5" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="942" fromTop="29" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1446" fromTop="18" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="689" fromTop="14" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1261" fromTop="29" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1867" fromTop="18" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:NHhelper.cs" caret="208" fromTop="5" />
       <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/f:NHhelper.cs" caret="1386" fromTop="31" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="881" fromTop="15" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Views/d:Layouts/f:Application.spark" caret="6" fromTop="0" />
       <File id="690FF3B1-058A-4CF0-BC23-FE76C840D6D6/d:Views/d:Home/f:Index.spark" caret="70" fromTop="2" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="743" fromTop="17" />
-      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1241" fromTop="34" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1070" fromTop="17" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1551" fromTop="34" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1011" fromTop="32" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1261" fromTop="38" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1745" fromTop="40" />
+      <File id="01F94885-C031-4E75-9398-4E22DD7EAD06/d:Infrastructure/d:DataAccess/f:RepositoryTests.cs" caret="1010" fromTop="10" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -76,7 +75,7 @@
       <Item value="TModel" priority="0" />
       <Item value="class" priority="1" />
       <Item value="virtual" priority="1" />
-      <Item value="new" priority="4" />
+      <Item value="new" priority="5" />
       <Item value="HomeController" priority="0" />
       <Item value="controller" priority="0" />
       <Item value="as" priority="0" />
@@ -98,7 +97,7 @@
       <Item value="readonly" priority="0" />
       <Item value="object" priority="1" />
       <Item value="if" priority="0" />
-      <Item value="_sessionFactory" priority="2" />
+      <Item value="_sessionFactory" priority="3" />
       <Item value="null" priority="0" />
       <Item value="lock" priority="0" />
       <Item value="Directory" priority="1" />
@@ -115,8 +114,15 @@
       <Item value="sessionFactory" priority="0" />
       <Item value="internal" priority="0" />
       <Item value="id" priority="0" />
-      <Item value="Id" priority="0" />
+      <Item value="Id" priority="1" />
       <Item value="long" priority="0" />
+      <Item value="User" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="TestFixtureSetUpAttribute" priority="0" />
+      <Item value="Email" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Role" priority="0" />
+      <Item value="Entity" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@LearningTracker.UI.Code.Configuration.SparkConfiguration">
       <Item value="Configure" priority="0" />
@@ -178,7 +184,7 @@
       <Item value="GetSessionFactory" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
-      <Item value="OpenSession" priority="0" />
+      <Item value="OpenSession" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:LearningTracker.IntegrationTests.Infrastructure.DataAccess.User">
       <Item value="Id" priority="0" />
@@ -188,6 +194,9 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityGenerationStrategyBuilder`1">
       <Item value="GuidComb" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Save" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
